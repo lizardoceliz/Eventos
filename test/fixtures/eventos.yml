@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  nombre: MyString
+  descripcion: MyText
+  fecha: 2010-10-02
+  confirmado: 
+  monto: 1.5
+
+two:
+  nombre: MyString
+  descripcion: MyText
+  fecha: 2010-10-02
+  confirmado: 
+  monto: 1.5
